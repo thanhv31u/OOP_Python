@@ -1,13 +1,7 @@
 OOP Project
 
-</p>
-Init a local repository
-Define the origin to the remote repository
-Add the file to the index
-Commit the files
-Push the files from the local repository to the remote
-It leads to something like that:
-</p>
+
+
 ```
 cd yourLocalFolder
 git init
